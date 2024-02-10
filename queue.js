@@ -42,6 +42,7 @@ queue.add(434)
 queue.add(3665)
 queue.add(343)
 queue.add(87)
+queue.remove()
 queue.print()
 
 
